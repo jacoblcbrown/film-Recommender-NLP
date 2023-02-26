@@ -1,3 +1,3 @@
-# Film Suggester (NLP)
+# Film Recommender (NLP)
 
 Using NLP to suggest a film to  user bsed on what they have previously watched. 
